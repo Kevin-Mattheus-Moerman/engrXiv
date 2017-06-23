@@ -25,3 +25,4 @@ Signed,
 1. Jason K. Moore, Faculty, University of California, Davis  
 1. Kyle E. Niemeyer, Assistant Professor, Oregon State University  
 1. Andrew Phillips, Senior Lecturer, Imperial College London  
+1. Kevin M. Moerman, Research Scientist, Massachusetts Institute of Technology
